@@ -26,5 +26,4 @@ int num1, num2, num3, num4, enc1, enc2, enc3, enc4,number;
     cout << enc1 << enc2 << enc3 << enc4 << "\n";
     
 return 0;
-
 }
