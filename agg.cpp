@@ -6,7 +6,7 @@ char lettergrade(double);
 
 int main()
 {
-    double project[4] = {100, 60, 100, 80};
+    	double project[4] = {100, 60, 100, 80};
 	double quizz[3] = {90, 85, 80};
 	double lab[6] = {82, 100, 100, 100, 90, 100};
 	double exam[2] = {68, 70};
