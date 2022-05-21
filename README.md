@@ -7,3 +7,5 @@ dfavg.cpp - reads the data from a file and finds the average of the numbers base
 enc2.cpp - number encoder
 
 ff.cpp - freefall calculator 
+
+hstmip.cpp - reads the data from a file and finds the mean, median, and mode while showing a histogram
