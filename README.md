@@ -9,3 +9,5 @@ enc2.cpp - number encoder
 ff.cpp - freefall calculator 
 
 hstmip.cpp - reads the data from a file and finds the mean, median, and mode while showing a histogram
+
+nni.cpp - converts a non negative integer into binary form 
