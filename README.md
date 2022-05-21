@@ -8,6 +8,8 @@ enc2.cpp - Number encoder
 
 ff.cpp - Freefall calculator 
 
+glcv.cpp - Galon to liter converter 
+
 hstmip.cpp - Reads the data from a file and finds the mean, median, and mode while showing a histogram
 
 nni.cpp - Converts a non negative integer into binary form 
