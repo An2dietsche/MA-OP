@@ -1,7 +1,3 @@
-/*
-Purpose: Calculate the average of all grades and shows the final grade in the course 
-*/
-
 #include <iostream>
 using namespace std;
 
