@@ -1,6 +1,3 @@
-/*
-Purpose:Calculates the salinity and freezing temperature between two points in order to find a new freezing temperature. 
-*/
 
 /* a=first salinity
    fa=first freezing temperature
