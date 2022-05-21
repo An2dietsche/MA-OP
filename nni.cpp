@@ -1,6 +1,3 @@
-/*
-Purpose:Convert a non negative integer into binary form 
-*/
 #include<iostream>
 using namespace std;
 int main()
