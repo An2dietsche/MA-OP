@@ -1,9 +1,3 @@
-/*
-Purpose: Reads the data from the file and finds the average of the numbers based on the numbers read 
-*/
-
-
-
 #include<iostream>
 #include<fstream>
 
