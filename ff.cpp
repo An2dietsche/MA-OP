@@ -12,7 +12,4 @@ int main()
 	cout << "Distance traveled under freefall is "<< distance <<" feet per second squared." << endl;
 
 return 0;
-
 }
-
-
