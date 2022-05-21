@@ -1,7 +1,3 @@
-/*
-Purpose: Reads the data from the file and finds the mean, median, and mode while showing a histogram.  
-*/
-
 #include <iostream>
 #include <cstdio>
 
