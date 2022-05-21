@@ -1,8 +1,10 @@
 #include <iostream>
 using namespace std;
- 
- int main()
+
+
+int main()
 {
+
 /* 
     num1, num2, num3, num4 are the digits of the first number
 	enc1, enc2, enc3, enc4 are the encoded digits 
