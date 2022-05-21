@@ -21,7 +21,7 @@ int main ()
 	cout << "Enter the new salinity.\n";
 	cin >> b;
 	fb = fa + (b-a)/(c-a) * (fc - fa);
-    cout << "The new freezing temperature in degrees F is " << fb << endl;
+    	cout << "The new freezing temperature in degrees F is " << fb << endl;
 
     return 0;
 
