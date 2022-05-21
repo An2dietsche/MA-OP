@@ -24,5 +24,4 @@ int main ()
     	cout << "The new freezing temperature in degrees F is " << fb << endl;
 
     return 0;
-
 }
