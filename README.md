@@ -15,3 +15,5 @@ hstmip.cpp - Reads the data from a file and finds the mean, median, and mode whi
 nni.cpp - Converts a non negative integer into binary form 
 
 sfp.cpp - Calculates the salinity and freezing temperature between two points in order to find a new freezing temperature
+
+vdm.cpp - Basic vending machine operation 
