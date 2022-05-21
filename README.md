@@ -10,6 +10,8 @@ ff.cpp - Freefall calculator
 
 glcv.cpp - Galon to liter converter 
 
+hrzt.cpp - Data input reader; provides a time and Hz level  
+
 hstmip.cpp - Reads the data from a file and finds the mean, median, and mode while showing a histogram
 
 nni.cpp - Converts a non negative integer into binary form 
