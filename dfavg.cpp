@@ -12,10 +12,10 @@ using namespace std;
 int main(){
   
    ifstream input;
-   input.open("file1.dat");
+   input.open("---");
   
    ofstream output;
-   output.open("file1.dat");
+   output.open("---");
   
    
    int num = 0;
