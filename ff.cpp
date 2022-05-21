@@ -1,7 +1,3 @@
-/*
-Purpose:Calculates the distance traveled under freefall
-*/
-
 #include <iostream>
 using namespace std;
 
